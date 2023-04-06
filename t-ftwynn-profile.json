@@ -1,0 +1,39 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T14:24:40Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:ftwynn"
+    },
+    {
+      "Claim": "t:ftwynn"
+    },
+    {
+      "Claim": "mdon:@ftwynn@fosstodon.org"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "e8361b6aab819fda1e6d1bcf",
+    "Timestamp": "2023-04-06T14:32:22Z",
+    "Signature": "214bf4a93f1f03d6b34e8fdaf571ec8aa4cb0e15ca16524224c1108cbee033566ee27af53f13ca49ea422541b89df0a0e243320c746d22652a20a0620778c693b54c7b8942bd547a8eec27ede0fcfb18d3ccc6ddea1d4f84796160a75b0cd5c80b51ac9d52c9860cda5f43178c5557cbf370077e283d3469ec386e197b7729eb2bad231c157fe640db3b71c8455674a1e738f4af56a832a356da8736dc11bae4a42f00889502edda47810b9e700de5a019959499c16f4e72f55d1000828545cf7a06ddcff15068d3cdcee79697a773606283624a2ea9be5913da3867347c681f4e769e6e8ac9dd62cef813a184b91a6c650a01197d356927f81429d10e9027c7"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "72917b492affcdac0c4718eb1bdf92a54f8fa6db7ceafcc0c726fc2cb446d6a5",
+  "ContentToHash": "v1|gh:ftwynn,mdon:@ftwynn@fosstodon.org,med:no-account,post:no-account,spout:no-account,ss:no-account,t:ftwynn|2023-04-06T14:24:40Z"
+}
